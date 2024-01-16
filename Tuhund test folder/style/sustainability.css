@@ -1,0 +1,55 @@
+#sustainability {
+    border: 1px solid transparent;
+    width: 99%;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 35% 58% 5%;
+    text-align: left;
+    color: #1e2a78;
+   
+}
+#sustainability>div{
+       
+        border: 1px solid transparent;
+}
+#yellow{
+    background-color: lemonchiffon;
+    padding-left:98px;
+  
+    height: 99%;
+}
+#sustainability>div>img{
+    margin: auto;
+    margin-left: 20px;
+    width: 100%;
+   
+ 
+ 
+}
+#sustainability-write{
+    border: 5px solid transparent;
+    padding: 100px;
+    text-align: left;
+    
+}
+
+#contact{
+       border: 1px solid transparent;
+        width: 99%;
+        margin: auto;
+        display: grid;
+        grid-template-columns: 75% 25%;
+        background-color: rgb(245, 245, 245);
+        color: #1e2a78;
+        padding-top: 10px;
+       
+        height: 180px;
+    }
+
+#contact-li{
+    padding-left:150px ;
+}
+#contact-copyright{
+    font-size: 12px;
+    margin-top: 100px;
+}

@@ -1,0 +1,19 @@
+#production {
+    border: 1px solid transparent;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 60% 30%;
+    text-align: left;
+    color: #1e2a78;
+}
+
+#production-headquatered {
+    margin: auto;
+    border: 1px solid transparent;
+    margin-top: 40%;
+    margin-right: 40%;
+    padding: 10px;
+    width: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ 
+}

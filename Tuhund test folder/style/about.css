@@ -1,0 +1,53 @@
+.flex-container {
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    color: #1e2a78;
+    border: 1px solid transparent;
+    padding: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ .flex-container>div {
+
+width: 100%;
+border: 1px solid transparent;
+ }
+ .flex-container>div>h2{
+    text-align: center;
+    padding: 50px;
+    font-size: 29px;
+    padding-top: 100px;
+    border: 1px solid transparent;
+    font-weight: bold;
+ }
+ #into-cerie{
+    margin: auto;
+    height: 99%;
+    margin-left: -25px;
+    margin-right: -25px;
+    background-color: rgb(245, 245, 245);
+    border: 1px solid transparent;
+
+}
+.flex-container>div>p {
+    text-align: left;
+   
+    font-weight:30px;
+    margin-left:15%;
+    border: 1px solid transparent ;
+}
+ .flex-container>div>button {
+    background-color: #1e2a78;
+    padding: 10px 60px 10px 60px;
+    padding-left: 50px;
+    padding-right:50px ;
+    border-radius: 50px;
+    margin-top: 30%;
+    color: aqua;
+    font-weight: bold;
+    cursor: pointer;
+    border: none;
+   margin-left: 37%;
+    font-size: 10px;
+}
